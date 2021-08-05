@@ -1,0 +1,33 @@
+body{
+    background-image: url("resources/imgone.jpeg");
+    background-size: cover;
+}
+h1{
+    color: #ffd3ee;
+    float: right;
+
+}
+button{
+    background-color: #d8b6fa;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    color: #0f16ff;
+}
+button:hover{
+    background-color: chocolate;
+    color: #ff1d13;
+}
+h3,h4{
+    color: blueviolet;
+}
+ul{
+    color: #2212ff;
+}
+ol{
+    color: #2212ff;
+}
+h3,h4{
+    margin-left: 15px;
+}
